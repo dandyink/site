@@ -1,0 +1,10 @@
+To: sander001@mail.ru
+Subject: Вы оставили отзыв на сайте компании "Сладкое желание"
+X-PHP-Originating-Script: 0:form.php
+From: dandy.ink@mail.ru
+Reply-To: dandy.ink@mail.ru
+X-Mailer: PHP/5.6.29
+
+Компания "Сладкое желание" благодарит Вас за отзыв:
+sander001@mail.ru
+Будем рады видеть Вас снова!
